@@ -3,9 +3,10 @@ import { createStore, applyMiddleware, compose } from 'redux';
 import { Provider } from 'react-redux';
 import thunk from 'redux-thunk';
 
-import PostList from './components/PostList';
+import RestaurantList from './components/RestaurantList';
 import SearchBar from './components/SearchBar';
-import OpenTable from './apis/OpenTable';
+import Pagination from './components/Pagination';
+import reducers from './rootReducer';
 
 const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 
