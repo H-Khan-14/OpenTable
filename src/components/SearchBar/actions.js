@@ -24,7 +24,7 @@ export const fetchRestaurantList = (city, price, zip, page) => (
   getState
 ) => {
   dispatch(fetchRestaurantListLoading());
-  let queryUrl = 'http://opentable.herokuapp.com/api/restaurants';
+  let queryUrl = 'https://opentable.herokuapp.com/api/restaurants';
   let { restaurants } = getState();
   let cityParam = city || restaurants.city;
   let priceParam = price || restaurants.price;
