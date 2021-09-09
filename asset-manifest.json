@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OpenTable/static/css/main.af9d3aae.chunk.css",
+    "main.js": "/OpenTable/static/js/main.49b78427.chunk.js",
+    "main.js.map": "/OpenTable/static/js/main.49b78427.chunk.js.map",
+    "runtime-main.js": "/OpenTable/static/js/runtime-main.fdc6d7e6.js",
+    "runtime-main.js.map": "/OpenTable/static/js/runtime-main.fdc6d7e6.js.map",
+    "static/js/2.1719af15.chunk.js": "/OpenTable/static/js/2.1719af15.chunk.js",
+    "static/js/2.1719af15.chunk.js.map": "/OpenTable/static/js/2.1719af15.chunk.js.map",
+    "index.html": "/OpenTable/index.html",
+    "precache-manifest.62762fe4a6e016f11f9a622cc9b9567a.js": "/OpenTable/precache-manifest.62762fe4a6e016f11f9a622cc9b9567a.js",
+    "service-worker.js": "/OpenTable/service-worker.js",
+    "static/css/main.af9d3aae.chunk.css.map": "/OpenTable/static/css/main.af9d3aae.chunk.css.map",
+    "static/js/2.1719af15.chunk.js.LICENSE.txt": "/OpenTable/static/js/2.1719af15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdc6d7e6.js",
+    "static/js/2.1719af15.chunk.js",
+    "static/css/main.af9d3aae.chunk.css",
+    "static/js/main.49b78427.chunk.js"
+  ]
+}
