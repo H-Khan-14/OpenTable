@@ -41,6 +41,7 @@ export const fetchRestaurantList = (city, price, zip, page) => (
     },
   })
     .then((data) => {
+      console.log(data);
       dispatch(
         fetchRestaurantListSuccess({
           data: data.data,
